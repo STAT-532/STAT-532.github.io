@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## STAT 532 
 
-You can use the [editor on GitHub](https://github.com/STAT-532/STAT-532.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to _Bayesian Statistics_, STAT 532! This course is intended to introduce you to the philosophy, theory, and application of Bayesian Statistics.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Text 
 
-### Markdown
+- The required textbook for this course is, Gelman, A., Carlin J.B., Stern, H.S, Dunson, D.B., Vehtari, A., and Rubin, D.B. _Bayesian Data Analysis, 3$^{rd}$ Edition_, (2014). CRC Press. Boca Raton, FL. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - Access the homepage of the text here, [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/), and a pdf version that is free for academic use here [BDA3 pdf](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf). 
+    - Extra resources are: 
+    
+        - Hoff 
+        - ARM
+        - Link and Barker 
+        - Hobbs and Hooten
+        - Hooten and 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Course Learning Outcomes
 
-- Bulleted
-- List
+### Tentative Course Content 
 
-1. Numbered
-2. List
+### Course Calendar
 
-**Bold** and _Italic_ and `Code` text
+This will continue to evolve as we progress through thee course 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STAT-532/STAT-532.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
